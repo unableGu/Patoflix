@@ -1,0 +1,76 @@
+{
+  "categorias": [
+    {
+      "titulo": "Videos",
+      "link": "https://www.youtube.com/@wrinkletheduck/videos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "SeDUCKtive",
+        "url": "https://www.instagram.com/seducktive/"
+      },
+      "videos": [
+        {
+          "titulo": "I took my duck to Petsmart",
+          "url": "https://youtu.be/owZiOi3KD58?si=Ub8_4rX2XLmURrBS"
+        },
+        {
+          "titulo": "Wrinkle goes to a Dinosaur Museum",
+          "url": "https://youtu.be/9vaHDZlWHN4?si=n3oMiGUDlUp9Ca6M"
+        },
+        {
+          "titulo": "I took my duck ice skating",
+          "url": "https://youtu.be/CVONe-rN-qg?si=tDlQlTHCjga8q_1a"
+        },
+        {
+          "titulo": "I took my duck to the State Fair",
+          "url": "https://youtu.be/gP-tYuk8Dss?si=FjRW6MUPTVZ5ITGB"
+        },
+        {
+          "titulo": "I took my duck to the Aquarium",
+          "url": "https://youtu.be/FwpYh4uVe5g?si=bG-p-h1jKGLkMjwq"
+        },
+        {
+          "titulo": "I took my duck to the Clown Motel",
+          "url": "https://youtu.be/VBmC8WcOceE?si=8Zw19c7VQzjLC13o"
+        },
+        {
+          "titulo": "I took my duck to College",
+          "url": "https://youtu.be/NlitKyKIX04?si=y71np66UgWI71Rr5"
+        },
+        {
+          "titulo": "I took my duck to The Grand Canyon",
+          "url": "https://youtu.be/uTN786nfMPM?si=-QhhdtjYrib-MBTd"
+        }        
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Trailers"
+      },
+      "videos": [
+        {
+          "titulo": "Patos",
+          "url": "https://www.youtube.com/watch?v=-hWlIC1gvPE"
+        },
+        {
+          "titulo": "Pato Pato Ganso",
+          "url": "https://www.youtube.com/watch?v=r8_8JL_69Ao"
+        },
+        {
+          "titulo": "Howard o Super Pato",
+          "url": "https://www.youtube.com/watch?v=M2RNrmCJLtA"
+        },
+        {
+          "titulo": "The Million Dolar Duck",
+          "url": "https://www.youtube.com/watch?v=2PXvPVScbsU&t=2s"
+        }, 
+        {
+          "titulo": "O patinho feio",
+          "url": "https://www.youtube.com/watch?v=ph3Q8bs3ny8"
+        }
+      ]
+    }
+  ]
+}
